@@ -1,8 +1,8 @@
-# Space Cream Mobile - Desafio Mobile First (Stage 03)
+# Space Cream Desktop - Grid com Animações (Stage 03)
 
 > Desafio proposto no Stage 03 do Explorer da Rocketseat
 
-![Screenshot](./.github/preview.jpg)
+![Screenshot](./.github/preview.gif)
 
 # Instrutores
 
